@@ -14,5 +14,3 @@ Uso estos **emojis**
 * :poop:
 * :smile:
 * :unicorn:
-
-
